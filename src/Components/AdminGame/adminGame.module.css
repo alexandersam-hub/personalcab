@@ -1,0 +1,13 @@
+.btnPaddings{
+    padding: 0 10px 0 10px;
+    margin:5px 10px 0 10px;
+}
+.is_finish{
+    display: inline-block;
+    border-radius:5px;
+    padding: 5px;
+    background-color: red;
+}
+.menu_game{
+    padding: 10px 10px 10px 10px;
+}
